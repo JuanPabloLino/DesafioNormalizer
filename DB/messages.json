@@ -1,0 +1,46 @@
+[
+    {
+      "author": {
+        "id": "juanpablo@gmail.com",
+        "nombre": "Juan",
+        "apellido": "Lino",
+        "edad": "28",
+        "alias": "JuanP",
+        "avatar": "www.avatar.com/avatardejuan"
+      },
+      "text": "Hola, hay alguien?"
+    },
+    {
+      "author": {
+        "id": "bautistasanchez@gmail.com",
+        "nombre": "Bautista",
+        "apellido": "Sanchez",
+        "edad": "27",
+        "alias": "BautiSanchez",
+        "avatar": "www.avatar.com/bautistasanchez"
+      },
+      "text": "Si. Como Estas?"
+    },
+      { 
+      "author": {
+        "id": "juanpablo@gmail.com",
+        "nombre": "Juan",
+        "apellido": "Lino",
+        "edad": "28",
+        "alias": "JuanP",
+        "avatar": "www.avatar.com/avatardejuan"
+      },
+      "text": "Todo bien, vos?"
+    },
+      { 
+      "author": {
+        "id": "bautistasanchez@gmail.com",
+        "nombre": "Bautista",
+        "apellido": "Sanchez",
+        "edad": "27",
+        "alias": "BautiSanchez",
+        "avatar": "www.avatar.com/bautistasanchez"
+      },
+      "text": "Bien."
+    }
+  ]
